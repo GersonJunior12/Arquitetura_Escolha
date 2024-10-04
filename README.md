@@ -1,5 +1,7 @@
 # Arquitetura Escolha
 
+[LINK PARA O VIDEO DA APRESENTAÇÃO](https://drive.google.com/file/d/1pyw7BcF5TR5wF7BUX7RGirvDKMafd2gy/view)
+
 ## Story Telling 
 
 A **SportTec** é uma empresa de venda de produtos esportivos.  
