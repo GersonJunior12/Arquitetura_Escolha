@@ -1,7 +1,8 @@
 # Arquitetura Escolha
+
 ## Story Telling 
 
-A SportTec é uma empresa de venda de produtos esportivos.  
+A **SportTec** é uma empresa de venda de produtos esportivos.  
 
 A empresa possui vários canais de venda por onde os clientes podem fazer as solicitações de compra. O cliente pode comprar roupas, tênis e outros itens esportivos.  
 
